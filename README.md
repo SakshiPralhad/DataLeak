@@ -1,4 +1,4 @@
-# Welcome to the Data Risk Assessment and Information Privacy Enhancement
+# Data Risk Assessment and Information Privacy Enhancement
 
 <h3> Overview </h3>
 <hr>
